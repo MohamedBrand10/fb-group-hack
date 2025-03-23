@@ -303,4 +303,5 @@ else:
 	time.sleep(2)
 
 	restart_program()
+	input()
 
